@@ -1,0 +1,26 @@
+body
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	}
+	
+#comments{margin-bottom:40px; font-size:20px}
+
+#comments .commentlist {margin: 0px 280px 0px 260px; padding:10px;}
+
+#comments .commentlist ul{margin:0; padding:0; list-style:none; }
+
+#comments .commentlist li.comment_odd, #comments .commentlist li.comment_even{margin:0 0 10px 0; padding:15px; list-style:none;}
+
+#comments .commentlist li.comment_odd{color:#FFFFFF !important; background-color:#000 !important}
+#comments .commentlist li.comment_odd a{color:#059BD8 !important; background-color:#000000 !important;}
+
+#comments .commentlist li.comment_even{color:#000000; background-color:#CCFFFF !important;}
+#comments .commentlist li.comment_even a{color:#059BD8; background-color:#CCFFFF !important;}
+
+#comments .commentlist .author .name{font-weight:bold !important;}
+#comments .commentlist .submitdate{font-size:smaller !important;}
+
+#comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight: normal;text-transform: none;}
+
+#comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
+/* ------------------------------------------------Comments-----------------------------------------------------*/

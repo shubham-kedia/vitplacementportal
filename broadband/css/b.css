@@ -1,0 +1,57 @@
+#tabsBB
+{
+width:384px;
+height:1000px;
+margin-left:11px;
+margin-top:12px;
+
+}
+
+#tabspace
+{
+width:384px;
+height:10px;
+
+
+}
+
+
+
+#no1
+{
+background:url(/bsnl/broadband/images/grey.png);
+width:384px;
+height:67px;
+}
+
+
+.font
+{
+
+font-family:Stencil Std;
+font-size:40px;
+text-align:center;
+font-weight:bold;
+color:white;
+}
+
+.font a.selected, .smooth a:hover { 
+	color:white;
+}
+
+.font  a {
+	
+	
+	color:white;	
+	text-align: center;
+	text-decoration: none;
+	font-weight: 400;
+	outline: none;
+}
+
+
+#lincoln
+{background:url(../images/backk.png);
+}
+
+
